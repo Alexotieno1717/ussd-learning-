@@ -1,4 +1,4 @@
-# JuaKali SACCO USSD practice
+# USSD practice
 
 This beginner example runs in your terminal. It does not need an API token, internet connection, or callback URL. All balances, phone numbers, loan requests, and payment details are examples; it does not access a real SACCO or send money.
 
